@@ -21,7 +21,8 @@ I specialize in **Flutter (Dart)** and **native Android (Java/XML)**, with hands
 ### 📱 Featured Projects
 - **GENESIS** — An educational app for doctors with course purchase, video lectures, exams, and more.
 - **DG HRM** — A full-featured HRM app with attendance, leave applications, and internal notices.
-- **The Message BD** — An Islamic app with Quran audio/translation, Hadith, and articles.
+- **The Message Academy** — An Islamic app with Quran audio/translation, Hadith, and articles.
+- **PG Easy** — An Exam app, join, enroll batches, take exams, view results & more.
 
 > 🔗 [Play Store Developer Page](https://play.google.com/store/apps/developer?id=MedigeneIT)  
 > 🐙 [Explore My Projects →](https://github.com/asif331001)
